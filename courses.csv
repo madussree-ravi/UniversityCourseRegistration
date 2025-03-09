@@ -1,0 +1,38 @@
+SUBJECT_CODE,COURSES,CREDITS,TYPE,SEMESTER,PRE1,CGPA
+101,Introduction to Computer Science,3,C,1,0,8.5
+102,Calculus I,3,C,1,0,7.8
+103,English Composition,3,C,1,0,8.6
+104,General Chemistry,3,C,1,0,7.5
+105,Introduction to Psychology,2,E,1,0,6.5
+106,Introduction to Sociology,2,E,1,0,6.6
+201,Data Structures and Algorithms,3,C,2,101,8
+202,Calculus II,3,C,2,102,6.5
+203,Principles of Microeconomics,3,C,2,0,8.3
+204,Introduction to Biology,3,C,2,105,6
+205,Introduction to Philosophy,2,E,2,0,6.5
+206,World History,2,E,2,0,6
+301,Computer Organization and Architecture,3,C,3,101,8.3
+302,Linear Algebra,3,C,3,202,8.4
+303,Introduction to Literature,2,E,3,0,7.7
+304,Principles of Macroeconomics,3,C,3,203,7.6
+305,Environmental Science,2,E,3,0,6.2
+306,Introduction to Anthropology,3,C,3,0,6.2
+401,Database Management Systems,3,C,4,201,8.5
+402,Discrete Mathematics,3,C,4,101,7.5
+404,Physics I,3,C,4,102,8
+405,Introduction to Political Science,2,E,4,0,8.2
+501,Operating Systems,3,C,5,301,7.2
+502,Algorithms Design and Analysis,3,C,5,201,6.9
+503,Introduction to Marketing,3,C,5,0,6.8
+504,Technical Writing,2,E,5,0,7.3
+505,Organic Chemistry,3,C,5,105,7.5
+506,Introduction to Linguistics,2,E,5,0,7
+601,Software Engineering,3,C,6,502,8.1
+602,Computer Networks,3,C,6,501,8.8
+603,Advanced Calculus,3,C,6,202,7.2
+604,Genetics,3,C,6,204,7.7
+605,Cognitive Psychology,2,E,6,104,7.6
+606,International Relations,2,E,6,0,8.4
+406,Introfuction to Constitution,2,E,4,205,5.6
+
+403,Laplace Transform and Complex Functions,3,C,4,301,7.1
